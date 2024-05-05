@@ -1,0 +1,11 @@
+src/SFML/Audio/CMakeFiles/sfml-audio.dir/SoundSource.cpp.o: \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/src/SFML/Audio/SoundSource.cpp \
+ /usr/include/stdc-predef.h \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/Audio/SoundSource.hpp \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/Audio/Export.hpp \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/Config.hpp \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/Audio/AlResource.hpp \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/System/Vector3.hpp \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/include/SFML/System/Vector3.inl \
+ /home/lev145/CLionProjects/untitled7/SFML-2.6.1/src/SFML/Audio/ALCheck.hpp \
+ /usr/include/AL/al.h /usr/include/AL/alc.h
